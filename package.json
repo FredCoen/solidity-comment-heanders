@@ -19,6 +19,13 @@
 				"command": "solidity-comment-heanders.headerInsert",
 				"title": "Solidity code header"
 			}
+		],
+		"keybindings": [
+            {
+                "command": "solidity-comment-heanders.headerInsert",
+                "key": "ctrl+g",
+                "mac": "cmd+g"
+            }
 		]
 	},
 	"scripts": {
