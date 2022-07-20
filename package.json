@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:solidity-comment-heanders.helloWorld"
+        "onCommand:solidity-comment-heanders.headerInsert"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "solidity-comment-heanders.helloWorld",
-				"title": "Hello World"
+				"command": "solidity-comment-heanders.headerInsert",
+				"title": "Solidity code header"
 			}
 		]
 	},
