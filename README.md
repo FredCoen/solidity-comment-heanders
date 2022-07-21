@@ -6,6 +6,10 @@ Alternatively you can use a key binding (`Cmd+g` on macOS or `Ctrl+g` on Windows
 
 ![Demo](assets/demo.gif)
 
-### 1.0.0
+### 0.0.1
 
-Initial release of inserting formatted code comment header snippets
+Initial release of inserting formatted code comment header snippets.
+
+### 0.0.2
+
+Added demo gif.

@@ -3,7 +3,7 @@
 	"displayName": "Solidity Comment Heanders",
 	"description": "Generate perfectly formatted code headers for solidity",
 	"repository": "https://github.com/FredCoen/solidity-comment-heanders",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "fredcoen",
 	"engines": {
 		"vscode": "^1.69.0"
